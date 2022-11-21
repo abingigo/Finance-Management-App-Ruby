@@ -1,1 +1,1 @@
-After installing Ruby and MSYS, clone this repo and run ```build install``` in the folder
+# CRUD operations for expenses via Ruby on Rails
